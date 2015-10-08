@@ -1,47 +1,47 @@
-# volkswagen
+# audi
 
-Volkswagen detects when your tests are being run in a CI server, and
+Audi detects when your tests are being run in a CI server, and
 makes them pass.
 
-[![Build status](https://travis-ci.org/auchenberg/volkswagen.svg?branch=master)](https://travis-ci.org/auchenberg/volkswagen)
+[![Build status](https://travis-ci.org/aayamauchi/audi.svg?branch=master)](https://travis-ci.org/aayamauchi/audi)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg)](https://github.com/auchenberg/volkswagen)
+[![audi status](https://aayamauchi.github.io/audi/volkswargen_ci.svg)](https://github.com/aayamauchi/audi)
 
-![](https://auchenberg.github.io/volkswagen/illustration.gif)
+![](https://aayamauchi.github.io/audi/illustration.gif)
 
 ## Why?
 
 If you want your software to be adopted by Americans, good tests scores 
-from the CI server is very important. Volkswagen uses a defeat device to 
-detect when it's being tested in a CI server and will automatically 
-reduce errors to an acceptable level for the tests to pass. This will
-allow you to spend _less_ time worrying about testing and _more_ time
-enjoying the good life as a successful software developer.
+from the CI server is very important. Audi uses the same defeat device
+as its parent, Volkswagen, to detect when it's being tested in a CI server
+and will automatically reduce errors to an acceptable level for the tests
+to pass. This will allow you to spend _less_ time worrying about testing
+and _more_ time enjoying the good life as a successful software developer.
 
 You can start already by adding our always-passing build badge to your
 README:
 
-[![Volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg)](https://github.com/auchenberg/volkswagen)
+[![Audi status](https://aayamauchi.github.io/audi/volkswargen_ci.svg)](https://github.com/aayamauchi/audi)
 
 Markdown snippet:
 
 ```md
-[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg)](https://github.com/auchenberg/volkswagen)
+[![audi status](https://aayamauchi.github.io/audi/volkswargen_ci.svg)](https://github.com/aayamauchi/audi)
 ```
 
 ## Installation
 
 ```
-npm install volkswagen
+npm install audi
 ```
 
 ## Usage
 
-Just require volkswagen somewhere in your code-base - maybe in your main
+Just require audi somewhere in your code-base - maybe in your main
 test file:
 
 ```js
-require('volkswagen')
+require('audi')
 ```
 
 ## Project status
